@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>InColle house</title>
-    <link>http://example.org/</link>
+    <link>/</link>
     <description>Recent content on InColle house</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-ja</language>
-    <lastBuildDate>Sun, 06 Aug 2023 20:34:10 +0900</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Aug 2023 20:34:10 +0900</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Second</title>
-      <link>http://example.org/posts/second/</link>
+      <link>/posts/second/</link>
       <pubDate>Sun, 06 Aug 2023 20:34:10 +0900</pubDate>
       
-      <guid>http://example.org/posts/second/</guid>
+      <guid>/posts/second/</guid>
       
         <description></description>
       
@@ -20,10 +20,10 @@
     
     <item>
       <title>Contact</title>
-      <link>http://example.org/contact/contact/</link>
+      <link>/contact/contact/</link>
       <pubDate>Sun, 06 Aug 2023 20:29:56 +0900</pubDate>
       
-      <guid>http://example.org/contact/contact/</guid>
+      <guid>/contact/contact/</guid>
       
         <description></description>
       
@@ -31,10 +31,10 @@
     
     <item>
       <title>Introduction</title>
-      <link>http://example.org/about/introduction/</link>
+      <link>/about/introduction/</link>
       <pubDate>Sun, 06 Aug 2023 20:29:32 +0900</pubDate>
       
-      <guid>http://example.org/about/introduction/</guid>
+      <guid>/about/introduction/</guid>
       
         <description>このサイトは趣味であるプログラミング学習で得た知識、自分の試行錯誤や思考のプロセスについて</description>
       
@@ -42,10 +42,10 @@
     
     <item>
       <title>First Post</title>
-      <link>http://example.org/posts/first-post/</link>
+      <link>/posts/first-post/</link>
       <pubDate>Sun, 06 Aug 2023 20:28:46 +0900</pubDate>
       
-      <guid>http://example.org/posts/first-post/</guid>
+      <guid>/posts/first-post/</guid>
       
         <description></description>
       

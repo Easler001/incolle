@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contacts on InColle house</title>
-    <link>http://example.org/contact/</link>
+    <link>/contact/</link>
     <description>Recent content in Contacts on InColle house</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-ja</language>
-    <lastBuildDate>Sun, 06 Aug 2023 20:29:56 +0900</lastBuildDate><atom:link href="http://example.org/contact/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Aug 2023 20:29:56 +0900</lastBuildDate><atom:link href="/contact/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>http://example.org/contact/contact/</link>
+      <link>/contact/contact/</link>
       <pubDate>Sun, 06 Aug 2023 20:29:56 +0900</pubDate>
       
-      <guid>http://example.org/contact/contact/</guid>
+      <guid>/contact/contact/</guid>
       
         <description></description>
       
